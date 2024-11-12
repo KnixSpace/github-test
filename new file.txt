@@ -1,1 +1,18 @@
 this is new file in feature 2 
+this file is updated in feature 2 branch 
+and here is the updated code for this file this is going to be conflicting in #include <iostream>
+using namespace std;
+int main()
+{
+    //write your code
+}
+
+
+
+
+
+
+
+
+
+this line in not conflicting
