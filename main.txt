@@ -1,1 +1,12 @@
-main file 
+this file need to update in main as this currently confilicting 
+#include <iostream>
+using namespace std;
+int main()
+{
+    //write your code
+}
+
+
+
+
+new file
