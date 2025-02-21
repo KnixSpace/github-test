@@ -1,2 +1,3 @@
 this is feature 1 branch now
+new update to bug
 feature 2 work
