@@ -1,2 +1,0 @@
-krupal file in feature  branch conflict
-this is new  line in main

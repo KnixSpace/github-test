@@ -1,6 +1,0 @@
-Helle world from main branch.
-Admin todo
-KnixSpace
-Krupal Patel
-Praharsh Patel
-feature-2 commit 1
