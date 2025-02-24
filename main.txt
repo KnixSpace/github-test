@@ -1,3 +1,0 @@
-yoo this is main initial setup
-from feature 1
-new from feature 1
